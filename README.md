@@ -2,7 +2,7 @@
 
 Submitted by: **Calvin Zhang**
 
-**Name of your app** is an app that... [TODO] 
+**PawPedia** : Detials are listed below
 
 Time spent: 1 hours spent in total
 
